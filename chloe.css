@@ -1,5 +1,9 @@
+body {
+	background: #FAFBF8;
+}
+
 h3 {
-	box-shadow: 0px 2px #E5E3E8;
+	box-shadow: 0px 2px #6d768c;
 	padding-bottom: 5px;
 }
 
@@ -10,7 +14,7 @@ h3.aboutTitle {
 }
 
 #header-row {
-	background: #ceccd0;
+	background: #6D768C;
 	/*background: #E5E3E8;*/
 }
 
@@ -30,7 +34,8 @@ h3.aboutTitle {
 #aboutMe {
 	margin-top: 50px;
 	padding: 0 20px 230px 20px;
-	background: #E5E3E8;
+	/*background: #FAEDEE;*/
+	background: #e6e9f2;
 }
 
 #timeline {
